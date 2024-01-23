@@ -19,6 +19,8 @@
   "homepage": "https://github.com/bennakarim2306/game-schackschack-accountbackend#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "jwt-decode": "^4.0.0",
+    "node-cache": "^5.1.2",
     "socket.io": "^4.7.4"
   }
 }
